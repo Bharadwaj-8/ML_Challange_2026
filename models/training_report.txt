@@ -1,0 +1,4 @@
+Best iteration: 2000
+Best validation logloss: 0.04212
+Best threshold: 0.6250
+Best validation macro F_0.5: 0.8028
